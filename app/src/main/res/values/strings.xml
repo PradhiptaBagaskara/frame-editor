@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">World Cup Photo Editor</string>
+    <string name="app_judul">World Cup Photo Editor</string>
+    <string name="ads1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads2">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- START - Start screen. -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="error">Image wasn\'t selected!</string>
+    <!-- Start screen - END. -->
+
+    <!-- START - Share screen. -->
+    <string name="send_and_share">Send&amp;Share</string>
+    <string name="save">Save</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="more">More</string>
+    <!-- Share screen - END. -->
+
+    <!-- START - Share screen -->
+    <string name="application_does_not_exist">Application does not exist</string>
+    <string name="instagram_alert">For share you need to have Instagram installed.</string>
+    <string name="facebook_alert">For share you need to have Facebook installed.</string>
+    <string name="install">Install</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="share_more">Share image with:</string>
+
+
+    <string name="select_color">Select a color</string>
+    <string name="color">Color</string>
+
+    <string name="tool_brightness">Brightness</string>
+
+    <string name="opacity">Opacity</string>
+
+    <string name="save_image">Save Image</string>
+    <string name="successfully_saved">Image successfully saved!</string>
+
+    <string name="intensity">Intensity</string>
+
+    <!-- START - Crop. -->
+    <string name="crop">Crop</string>
+    <string name="crop_free">Free</string>
+    <string name="crop_original">Original</string>
+    <string name="crop_square">Square</string>
+    <string name="crop_1_1">1 : 1</string>
+    <string name="crop_3_4">3:4</string>
+    <string name="crop_4_3">4:3</string>
+    <string name="crop_6_3">6 : 4</string>
+    <string name="crop_7_5">7:5</string>
+    <string name="crop_9_16">9:16</string>
+    <string name="crop_16_9">16:9</string>
+    <!-- Crop - END. -->
+
+    <!-- START - Stickers. -->
+    <string name="stickers">Stickers</string>
+    <string name="flags">Flags</string>
+    <string name="emoji">Emoji</string>
+    <string name="christmas">Christmas</string>
+    <string name="valentines_day">Valentines Day</string>
+    <!-- Stickers - END. -->
+
+    <!-- START - Orientation tool. -->
+    <string name="orientation">Orientation</string>
+    <string name="rotate">Rotate</string>
+    <string name="flip">Flip</string>
+    <string name="angle">Angle</string>
+    <!-- Orientation tool - END. -->
+
+    <!-- START - Text tool. -->
+    <string name="text">Text</string>
+    <string name="text_style">Style</string>
+    <string name="text_action">Action</string>
+    <string name="text_preview">Text preview</string>
+    <string name="text_added">Text added!</string>
+    <string name="text_is_empty">Text field is empty, please type text before add it!</string>
+    <string name="text_delete_enabled">Removing text is enabled!</string>
+    <string name="text_delete_disabled">Removing text is disabled!</string>
+    <string name="text_deleted">Text \"%1$s\" deleted!</string>
+    <!-- Text tool - END. -->
+
+    <!-- START - For filters -->
+    <string name="filters">Filters</string>
+    <!-- For filters - END -->
+
+    <!-- START - Draw tool. -->
+    <string name="drawing">Drawing</string>
+
+    <string name="size">Size</string>
+    <!-- Draw tool - END -->
+
+    <!-- For frame tool. -->
+    <string name="frames">Frames</string>
+
+    <!-- For color picker. -->
+    <string name="rgb">RGB</string>
+    <string name="argb">ARGB</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="RGB_R">R</string>
+    <string name="RGB_G">G</string>
+    <string name="RGB_B">B</string>
+
+    <!-- START - For alerts. -->
+    <string name="permission_denied">Permission denied</string>
+    <string name="go_to_app_settings">Go to app settings</string>
+     <string name="camera_permission">To get started you need to allow the application
+        use your camera to take photo. If you selected \"never ask again\" permission you can go to application settings and turn on \"Camera\" permission.</string>
+    <string name="read_storage_permission">To get started you need to allow the application
+        use your images. If you selected \"never ask again\" permission you can go to application settings and turn on \"Storage\" permission.</string>
+    <string name="on_back_alert">All your current edits will be lost and you will return to start screen!</string>
+    <string name="ok">OK</string>
+    <string name="add_text">ADD</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="text_delete_alert">Do you want to delete it?</string>
+    <string name="no_photos">You have no photos</string>
+    <string name="no_photos_tip">Take one with your camera to get started.</string>
+    <!-- For alerts. - END -->
+
+    <!-- START - Font picker dialog. -->
+    <string name="font">Font</string>
+    <string name="start_typing">Start typing…</string>
+    <string name="select_font">Select a font</string>
+    <string name="preview_text">Abc</string>
+    <string-array name="formats_array">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Underlined</item>
+    </string-array>
+    <!-- Font picker dialog - END. -->
+
+    <!-- START - ADJUST. -->
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="vignette">Vignette</string>
+    <string name="adjust">Adjust</string>
+    <string name="warmth">Warmth</string>
+    <string name="saturation">Saturation</string>
+    <string name="exposure">Exposure</string>
+    <string name="fade">Fade</string>
+    <string name="tint">Tint</string>
+    <string name="vibrance">Vibrance</string>
+    <string name="shadows">Shadows</string>
+    <string name="highlights">Highlights</string>
+    <!-- ADJUST - END. -->
+
+    <string name="preview">Preview</string>
+
+    <!-- START - Overlay -->
+    <string name="overlay">Overlay</string>
+
+    <string name="tilt_shift">Tilt Shift</string>
+    <string name="tilt_shift_radial">Radial</string>
+    <string name="tilt_shift_linear">Linear</string>
+
+    <string name="image_saved">Image saved!</string>
+
+    <string name="tools">Tools</string>
+
+    <!-- START - Transform -->
+    <string name="transform">Transform</string>
+    <string name="transform_straighten">Straighten</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="transform_horizontal">Transform Horizontal</string>
+    <string name="transform_vertical">Transform Vertical</string>
+    <!-- Transform - END. -->
+
+    <!-- START - Progress dialog message -->
+    <string name="processing">Processing…</string>
+    <string name="saving">Saving…</string>
+    <string name="prepare_frame">Prepare frame…</string>
+    <string name="prepare_overlay">Prepare overlay…</string>
+    <string name="brush_size">Brush Size</string>
+    <!-- Progress dialog message - END. -->
+
+    <string name="transparency">Transparency</string>
+</resources>

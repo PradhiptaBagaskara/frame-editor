@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.masbon.worldcupeditor.graphics.SquareFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundGravity="center"
+    android:padding="1dp">
+
+    <ImageView
+        android:id="@+id/image_view_album_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/text_view_album_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/transparency"
+        android:padding="5dp"
+        android:text="Gallery (102)"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar_gallery_album"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+</com.masbon.worldcupeditor.graphics.SquareFrameLayout>
